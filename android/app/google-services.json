@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292140891111",
+    "project_id": "crudtutorial-e263c",
+    "storage_bucket": "crudtutorial-e263c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292140891111:android:3ebf55379bc00bc6fd5b42",
+        "android_client_info": {
+          "package_name": "com.example.firebasecrudtute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGpa1reAPk3s8BPc7MV7roGzRTf9G1XXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
