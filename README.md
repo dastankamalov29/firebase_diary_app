@@ -12,7 +12,7 @@ Screens:
   <img src="Screen3.png" width="200" />
   <img src="Screen4.png" width="200" />
   <img src="Screen5.png" width="200" />
-  <img src="Screen6.png" width="200",height="200" />
+  <img src="Screen6.png" width="500" />
 
 
 
